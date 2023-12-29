@@ -1,0 +1,4 @@
+https://github.com/microsoft/vscode-jupyter/wiki/Installing-Python-packages-in-Jupyter-Notebooks
+
+video de "ejemplo de como funciona MetaTrader 5 en Windows"
+https://www.metatrader5.com/
